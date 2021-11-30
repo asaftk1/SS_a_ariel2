@@ -6,8 +6,6 @@
 
 
 void f1(int mat[N][N]){
-    /* 2D array declaration*/
-   /*Counter variables for the loop*/
    int i, j;
    for(i=0; i<N; i++) {
       for(j=0;j<N;j++) {
