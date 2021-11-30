@@ -3,7 +3,7 @@
 #include "my_mat.h"
 #define N 10
 int main(){
-    char s = 's';
+    char s;
     int mat[N][N];
         while(s != 'D')
         {
